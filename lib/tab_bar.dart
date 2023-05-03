@@ -17,7 +17,7 @@ class _TabBarWidgetState extends State<TabBarWidget> {
           title: Text("Tab Bar"),
           bottom: TabBar(
             tabs: [
-              Tab(text: "Tab 1",icon: Icon(Icons.home),),
+              Tab(text: "Tab 3",icon: Icon(Icons.home),),
               Tab(text: "Tab 2",icon: Icon(Icons.star),),
               Tab(text: "Tab 3",icon: Icon(Icons.person),),
             ],
